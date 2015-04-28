@@ -5,6 +5,12 @@ Angular directive to truncate multi-line text to visible height.  The end of the
    
 To use, copy *src/angular-ellipsis.js* to your project and rename the included module (which is set to 'exampleApp' at the bottom) to your own module.
 
+INSTALL
+-------
+`bower install hn-angular-ellipsis`
+
+We forked this repo to fix bad bower dependencies and also to registered it on bower. 
+
 DEMO
 --------
 [Angular Ellipsis Directive demo page](http://dibari.github.io/angular-ellipsis.html "Angular Ellipsis Directive")
