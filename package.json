@@ -10,10 +10,10 @@
 	],
 	"description" : "Angular directive to truncate multi-line text",
 	"version": "1.0.0",
-	"homepage" : "https://github.com/dibari/angular-ellipsis",
+	"homepage" : "https://github.com/HourlyNerd/angular-ellipsis",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/dibari/angular-ellipsis.git"
+		"url": "git://github.com/HourlyNerd/angular-ellipsis.git"
 	},
 	"engines": {
 		"node": ">= 0.8.4"
