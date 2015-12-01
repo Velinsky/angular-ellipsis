@@ -9,6 +9,8 @@ INSTALL
 -------
 `bower install hn-angular-ellipsis`
 
+`npm install angular-ellipsis`
+
 We forked this repo to fix bad bower dependencies and also to registered it on bower. 
 
 DEMO
