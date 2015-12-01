@@ -9,7 +9,7 @@
 		"truncate"
 	],
 	"description" : "Angular directive to truncate multi-line text",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"homepage" : "https://github.com/dibari/angular-ellipsis",
 	"repository": {
 		"type": "git",
